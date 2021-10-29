@@ -1,4 +1,5 @@
 <?php
+
 	namespace kyya\cold_hot\View;
 	
 	function showGame()
